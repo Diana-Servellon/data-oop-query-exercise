@@ -7,7 +7,7 @@ using Data_Exercise_OOP.BusinessModel.Clients;
 
 namespace Data_Exercise_OOP.BusinessModel.Invoices
 {
-    internal class Invoice
+    public class Invoice
     {
         public int InvoiceId { set; get; }
         public string? InvoiceNumber { set; get; }
@@ -16,6 +16,19 @@ namespace Data_Exercise_OOP.BusinessModel.Invoices
         public int? TotalDiscount { set; get; }
         public Client Client { set; get; }
         public DateDimention DateDimentionKey { set; get; }
+
+        public bool ApplyExtraDiscount(int totalPrice, double percentage)
+        {
+            if (Client.verifyExtraDiscount())
+            {
+
+                TotalDiscount += (int)(totalPrice * percentage);
+
+                return true;
+            }
+
+            return false;
+        }
 
 
     }

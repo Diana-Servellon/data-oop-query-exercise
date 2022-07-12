@@ -6,16 +6,31 @@ using System.Threading.Tasks;
 
 //Note: T? for nullable scenarios
 
+public enum ClientType { Wholesaler, Dealer}
+public enum ClientSize { Small, Medium, Large}
+
 namespace Data_Exercise_OOP.BusinessModel.Clients
 {
-    class Client: Person
+    public class Client: Person
     {
-        public string? ClientType { set; get; }
-        public string? ClientSize { set; get; }
+        public ClientType? ClientType { set; get; }
+        public ClientSize? ClientSize { set; get; }
         public DateTime? ClientSince { set; get; }
         public bool? IsClientWrthy { set; get; }
         public bool? IsDealer { set; get; }
         public ClientAddress? ClientAddress { set; get; }
+
+        //
+        public bool verifyExtraDiscount()
+        {
+            if (ClientSize != null && ClientSize == global::ClientSize.Large)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        
 
     }
 }

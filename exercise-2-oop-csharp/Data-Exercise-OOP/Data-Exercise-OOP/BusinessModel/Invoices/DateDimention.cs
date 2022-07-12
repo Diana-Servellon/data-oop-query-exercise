@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data_Exercise_OOP.BusinessModel.Invoices
 {
-    internal class DateDimention
+    public class DateDimention
     {
         public int DateKey { set; get; }
         public int Year { set; get; }

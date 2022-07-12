@@ -14,5 +14,7 @@ namespace Data_Exercise_OOP.BusinessModel.Invoices
         public int LineItem { get; set; }
         public Invoice InvoiceUnit { get; set; }
         public StockAirplane Stock { get; set; }
+
+
     }
 }

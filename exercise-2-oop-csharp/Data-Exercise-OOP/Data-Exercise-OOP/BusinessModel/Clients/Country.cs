@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data_Exercise_OOP.BusinessModel.Clients
 {
-    class Country
+    public class Country
     {
         public int CountryId { set; get; }
         public string CountryName { set; get; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data_Exercise_OOP.BusinessModel.Clients
 {
-    class ClientAddress
+    public class ClientAddress
     {
         public int ClientAddressId { get; set; }
         public string? ClientAddressOne { get; set; }
