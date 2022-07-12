@@ -1,0 +1,15 @@
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\bin\Debug\net6.0\Data-Exercise-OOP.exe
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\bin\Debug\net6.0\Data-Exercise-OOP.deps.json
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\bin\Debug\net6.0\Data-Exercise-OOP.runtimeconfig.json
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\bin\Debug\net6.0\Data-Exercise-OOP.dll
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\bin\Debug\net6.0\Data-Exercise-OOP.pdb
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\Data-Exercise-OOP.csproj.AssemblyReference.cache
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\Data-Exercise-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\Data-Exercise-OOP.AssemblyInfoInputs.cache
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\Data-Exercise-OOP.AssemblyInfo.cs
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\Data-Exercise-OOP.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\Data-Exercise-OOP.dll
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\refint\Data-Exercise-OOP.dll
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\Data-Exercise-OOP.pdb
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\Data-Exercise-OOP.genruntimeconfig.cache
+C:\Users\aliss\Desktop\temp Data Exercise\E2\Data-Exercise-OOP\Data-Exercise-OOP\obj\Debug\net6.0\ref\Data-Exercise-OOP.dll
